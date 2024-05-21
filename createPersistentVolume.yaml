@@ -8,7 +8,7 @@ spec:
   accessModes:
     - ReadWriteMany
   local:
-    path: /run/desktop/mnt/host/Users/gaurpalsinghchauhan/Documents/GitHub/sit737-2024-t1-prac9p/MyMappedFolder
+    path: /run/desktop/mnt/host\Git\sit737-2024-t1-prac9p\MyMappedFolder
   nodeAffinity:
     required:
       nodeSelectorTerms:
